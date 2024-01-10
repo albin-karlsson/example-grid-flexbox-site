@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background-color: blanchedalmond;
+  height: 100vh;
+}
+
+.nav {
+  height: 100px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-right: 20px;
+}
+
+#logo {
+  margin-left: 20px;
+  color: salmon;
+}
+
+.sidebar {
+  background-color: blue;
+}
+
+.header {
+  background-color: brown;
+}
